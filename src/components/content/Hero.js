@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import PageTitle from "./Titles/PageTitle";
+import PageTitle from "../commons/Titles/PageTitle";
 
 const StyledHero = styled.div`
     background: linear-gradient(
