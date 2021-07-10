@@ -7,7 +7,11 @@ const Skills = () => {
     return (
         <>
             <div className="col-12 col-md-6 px-5">
-                <img className="img-fluid" src="/assets/coding.jpg" alt="Coding" />
+                <img
+                    className="img-fluid"
+                    src="/assets/coding.jpg"
+                    alt="Coding"
+                />
             </div>
             <div className="col-12 col-md-6 px-5">
                 <SectionTitle text="Compétences" />
